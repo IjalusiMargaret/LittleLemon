@@ -5,7 +5,7 @@ This is the new version of the Capstone project.
 
 ## API Endpoints to Test
 
-1. mmenu/
+1. menu/
 2. menu/<int:pk>/
 3. restaurant/booking/
 4. api-token-auth/
